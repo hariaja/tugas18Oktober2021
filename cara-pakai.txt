@@ -1,0 +1,7 @@
+1. Download project atau bisa clone HTTPS
+2. Simpan project di folder xampp -> htdocs
+3. Import database ke MYSQL
+4. Jalankan di aplikasi Postman
+
+contoh menjalankan :
+http://(ip_komputer_atau_laptop)/nama_folder/nomorSatu.php -> untuk nomor satu, untuk nomor lain sesuaikan dengan nama file yang ada di folder
